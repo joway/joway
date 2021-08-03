@@ -4,4 +4,3 @@
 
 - I live in China and work as an Infrastructure Engineer 👨‍💻.
 - I am also a [Blogger 📝](https://blog.joway.io), a [Photographer 📸](https://pho.joway.io/), and a [Traveler 🌍](https://blog.joway.io/travel/).
-- I have a cat named [Kui 😼](https://blog.joway.io/cat/).
